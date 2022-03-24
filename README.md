@@ -7,7 +7,7 @@
 • Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz. <br/>
 Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur. <br/>
 
-### 2- [Hayvanat Bahçesi Yönetim Sistemi](https://github.com/EmineOzbek/Patika.Dev-OOP/blob/main/HayvanatBahcesiYönetimSistemi.png) <br/>
+### 2- [Hayvanat Bahçesi Yönetim Sistemi](https://github.com/EmineOzbek/Patika.Dev-OOP/blob/main/HayvanatBahcesiYonetimSistemi.png) <br/>
 Bir hayvanat bahçesindeki hayvanlar hakkındaki bilgileri takip etmek için bir sistem tasarlıyorsunuz.  <br/>
 • Hayvanlar: <br/>
   Atlar (atlar, zebralar, eşekler vb.), <br/>
