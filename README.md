@@ -2,6 +2,7 @@
 1- [Üniversite Yönetim Sistemi](https://github.com/EmineOzbek/Patika.Dev-OOP/blob/main/UniversiteYonetimSistemi.png) <br/>
 2- [Hayvanat Bahçesi Yönetim Sistemi](https://github.com/EmineOzbek/Patika.Dev-OOP/blob/main/HayvanatBahcesiYonetimSistemi.png) <br/>
 3- [Uçuş Yönetim Sistemi](https://github.com/EmineOzbek/Patika.Dev-OOP/blob/main/UcusYonetimSistemi.png) <br/>
+4- [Online Film Sistemi](https://github.com/EmineOzbek/Patika.Dev-OOP/blob/main/OnlineFilmSistemi.png) <br/>
 
 ## İSTERLER
 ### 1- [Üniversite Yönetim Sistemi](https://github.com/EmineOzbek/Patika.Dev-OOP/blob/main/UniversiteYonetimSistemi.png) <br/>
@@ -34,6 +35,14 @@ Uçuşların ve pilotların yönetimi için bir sistem tasarlayın. <br/>
 • Havaalanlarının benzersiz kimlikleri ve isimleri vardır. <br/>
 • Hava yolu şirketlerinin pilotları vardır ve her pilotun bir deneyim seviyesi mevcuttur. <br/>
 • Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir. <br/>
+
+### 4- [Online Film Sistemi](https://github.com/EmineOzbek/Patika.Dev-OOP/blob/main/OnlineFilmSistemi.png) <br/>
+Online film satan veya kiralayan uygulamanın sistemini tasarlayın. <br/>
+• Uygulamada filmler listelenebilir, sıralanabilir ve kullanıcılar uygulamaya abone olabilir. <br/>
+• Kullanıcılar abonelik için sistem üzerinden kredi satın alır. <br/>
+• Sadece abone olan kullanıcılar, kredileri ile film kiralayabilir ve kiraladığı filmin kredi bedeli kadar hesabından düşülür. <br/>
+• Normal kullanıcılar ve aboneler film satın alabilirler. <br/>
+• Eğer film mevcut değil ise talep edilebilir. <br/>
 
 
 
