@@ -41,7 +41,7 @@ Uçuşların ve pilotların yönetimi için bir sistem tasarlayın. <br/>
 • Hava yolu şirketlerinin pilotları vardır ve her pilotun bir deneyim seviyesi mevcuttur. <br/>
 • Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir. <br/>
 <br/>
-![](https://github.com/EmineOzbek/Patika.Dev-OOP/blob/main/HayvanatBahcesiYonetimSistemi.png)
+![](https://github.com/EmineOzbek/Patika.Dev-OOP/blob/main/UcusYonetimSistemi.png)
 
 ### 4- [Online Film Sistemi](https://github.com/EmineOzbek/Patika.Dev-OOP/blob/main/OnlineFilmSistemi.png) <br/>
 Online film satan veya kiralayan uygulamanın sistemini tasarlayın. <br/>
