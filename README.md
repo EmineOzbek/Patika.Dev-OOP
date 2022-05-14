@@ -51,7 +51,7 @@ Online film satan veya kiralayan uygulamanın sistemini tasarlayın. <br/>
 • Normal kullanıcılar ve aboneler film satın alabilirler. <br/>
 • Eğer film mevcut değil ise talep edilebilir. <br/>
 <br/>
-![](https://github.com/EmineOzbek/Patika.Dev-OOP/blob/main/UniversiteYonetimSistemi.png)
+![](https://github.com/EmineOzbek/Patika.Dev-OOP/blob/main/OnlineFilmSistemi.png)
 
 
 
